@@ -1,0 +1,30 @@
+{
+  "note": "Sample list of share-buyback programs for `sav risk-buyback-watch`. Dates are illustrative; verify against the issuer's IDX disclosures (Keterbukaan Informasi) before relying on any of them.",
+  "as_of": "2026-09-01",
+  "programs": [
+    {
+      "ticker": "ASII.JK",
+      "max_value_idr": 8000000000000,
+      "start_date": "2026-07-20",
+      "end_date": "2027-07-16",
+      "confirmed": false,
+      "note": "Example of a long-dated program."
+    },
+    {
+      "ticker": "MDKA.JK",
+      "max_value_idr": 300000000000,
+      "start_date": "2026-08-20",
+      "end_date": "2026-11-19",
+      "confirmed": false,
+      "note": "Example of a program nearing expiry: watch for a renewal announcement in the weeks before the end date."
+    },
+    {
+      "ticker": "INCO.JK",
+      "max_value_idr": 250000000000,
+      "start_date": "2026-08-20",
+      "end_date": null,
+      "confirmed": false,
+      "note": "Example of an undated program; skipped by the countdown until an end date is added."
+    }
+  ]
+}

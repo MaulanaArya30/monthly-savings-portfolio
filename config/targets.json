@@ -1,0 +1,41 @@
+{
+  "rebalance_band_pp": 10,
+  "holdings": [
+    {
+      "ticker": "ASII.JK",
+      "name": "Astra International",
+      "target_weight": 0.4,
+      "currency": "IDR",
+      "price_source": "yfinance",
+      "researched_yield": 0.08,
+      "broker": "Example Broker",
+      "lot_size": 100,
+      "dividend_tax_rate": 0.1,
+      "benchmark": "^JKSE"
+    },
+    {
+      "ticker": "BBRI.JK",
+      "name": "Bank Rakyat Indonesia",
+      "target_weight": 0.3,
+      "currency": "IDR",
+      "price_source": "yfinance",
+      "researched_yield": 0.09,
+      "broker": "Example Broker",
+      "lot_size": 100,
+      "dividend_tax_rate": 0.1,
+      "benchmark": "^JKSE"
+    },
+    {
+      "ticker": "TLKM.JK",
+      "name": "Telkom Indonesia",
+      "target_weight": 0.3,
+      "currency": "IDR",
+      "price_source": "yfinance",
+      "researched_yield": 0.06,
+      "broker": "Example Broker",
+      "lot_size": 100,
+      "dividend_tax_rate": 0.1,
+      "benchmark": "^JKSE"
+    }
+  ]
+}

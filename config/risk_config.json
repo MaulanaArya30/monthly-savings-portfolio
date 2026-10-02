@@ -1,0 +1,19 @@
+{
+  "pot_cap_idr": 1000000,
+  "stop_loss_pct": 0.15,
+  "breakeven_lock_pct": 0.1,
+  "trailing_stop_arm_pct": 0.2,
+  "trailing_stop_pct": 0.1,
+  "min_review_days": 5,
+  "stale_review_days": 21,
+  "target_monthly_return_pct": 0.7,
+  "benchmark": "^JKSE",
+  "candidate_universe": "kompas100",
+  "track_b": {
+    "stop_loss_pct": 0.15,
+    "pivot_buffer_pct": 0.03,
+    "breakeven_lock_pct": 0.3,
+    "trailing_stop_arm_pct": 0.5,
+    "trailing_stop_pct": 0.25
+  }
+}

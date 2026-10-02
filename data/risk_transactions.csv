@@ -1,0 +1,2 @@
+date,ticker,type,shares,price,amount,currency,note
+2026-08-27,ANTM.JK,buy,500.0,1900.0,950000.0,IDR,stop_loss=1615.0 sample data

@@ -1,0 +1,11 @@
+{
+  "note": "Sample candidate list for `sav risk-screen`. Hand-maintained, not a live index feed: verify each ticker is real and liquid before adding it.",
+  "as_of": "2026-09-01",
+  "candidates": [
+    { "ticker": "ANTM.JK", "theme": "nickel/EV battery supply chain" },
+    { "ticker": "INCO.JK", "theme": "nickel/EV battery supply chain" },
+    { "ticker": "MDKA.JK", "theme": "gold/copper mining" },
+    { "ticker": "GOTO.JK", "theme": "digital economy" },
+    { "ticker": "BUKA.JK", "theme": "digital economy" }
+  ]
+}

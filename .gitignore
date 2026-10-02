@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.claude/
+reports/
+data/.last_action.json
+data/manual_prices.csv
+.DS_Store
